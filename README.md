@@ -1,3 +1,3 @@
 # Mehndi
-you are brave.
-stop overthinking.
+This is my first repository .
+author name is Mehndi.
